@@ -4,11 +4,7 @@
 - MVC model: HTML - CSS - JavaScript - Webpack (babel, html-webpack-plugin, axios, core-js...) - Food2Fork API                     
 - Design adapted to my liking
 
-### Note:           
-The free plan for the API key is limited to 50 requests per day.         
-In case of extensive test/use of this app, and in order to avoid that you or the next person gets an error saying that *Something went wrong :(*
-#### thanks in advance to register to Food2Fork https://www.food2fork.com/default/user/login?_next=http%3A%2F%2Fwww.food2fork.com%2F     
-and get your own free API key :fire:
+### --development mode
 
 ---        
               
