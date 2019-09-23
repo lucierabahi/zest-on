@@ -4,7 +4,7 @@
 - MVC model: HTML - CSS - JavaScript - Webpack (babel, html-webpack-plugin, axios, core-js...) - Food2Fork API                     
 - Design adapted to my liking
 
-### --development mode
+### webpack --mode production
 
 ---        
               
